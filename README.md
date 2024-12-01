@@ -33,7 +33,7 @@ Using **blockchain**, we create a decentralized system that ensures medical data
 ### 3. **HealthSphere MediBot**
 The **HealthSphere MediBot** is an AI-powered assistant that helps healthcare professionals in decision-making, offering insights, recommendations, and medical reports in real-time.
 
-<img src="Frontend\assets\AM1.jpeg" alt="Image 1" width="300">
+<img src="THE-M2M-SQUAD\Frontend\assets\AM1.jpeg" alt="Image 1" width="300">
 ---
 
 ## Key Features
@@ -64,7 +64,7 @@ MedConnect will generate revenue through the following channels:
 - **Transaction Fees**: Micro-fees for expert consultations and second opinions.
 - **Institutional Partnerships**: Paid partnerships with hospitals, universities, and NGOs for custom healthcare solutions.
 
-<img src="Frontend\assets\AM.jpeg" alt="Image 1" width="300">
+<img src="THE-M2M-SQUAD\Frontend\assets\AM.jpeg" alt="Image 1" width="300">
 
 ---
 
